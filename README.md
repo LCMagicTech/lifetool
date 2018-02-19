@@ -6,6 +6,6 @@
 
 该应用还有提醒功能，每隔一段时间都会提醒用户喝水。
 
-![]()
+![](https://github.com/LCMagicTech/water-coadjutant-/blob/master/watercoadjutantbg.png)
 
 有任何问题可以留言联系我，我会第一时间进行回复。
